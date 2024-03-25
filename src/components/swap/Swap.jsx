@@ -47,9 +47,9 @@ export default function Swap() {
           <div className="flex items-center gap-x-1">
             <p className="flex items-center mr-2">
               {/* <IoWalletOutline className="w-5 h-5 text-primary mr-1" /> */}
-              <span className="font-medium text-sm">WCX</span>
+              {/* <span className="font-medium text-sm">WCX</span> */}
             </p>
-
+{/* 
             <Button
               size="sm"
               variant="secondary"
@@ -63,7 +63,7 @@ export default function Swap() {
               className="py-2 h-7 font-bold rounded-full shadow"
             >
               Half
-            </Button>
+            </Button> */}
           </div>
         </div>
 
